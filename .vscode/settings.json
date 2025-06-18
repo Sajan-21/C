@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "sample_io.C": "cpp"
+        "sample_io.C": "cpp",
+        "cstdlib": "c"
     }
 }
